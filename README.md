@@ -35,7 +35,7 @@ I'm PsychoCoder, I'm a bugbounty hunter, programmer, gammer, and Content Creator
 <br />
 
 #### The Bizz Stuff
-- :email: ipenywis@gmail.com
+- :email: cry3ptr@protonmail.com
 - :Discord: PsychoCoder#5290
 - :Discord Server: [My Server](https://discord.gg/GFxyqdu)
 
