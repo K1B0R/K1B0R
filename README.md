@@ -4,7 +4,7 @@ I'm PsychoCoder, I'm a bugbounty hunter, programmer, gammer, and Content Creator
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@PsychoCoder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PsychoCodeP)](https://twitter.com/PsychoCodeP) [![Mail Badge](https://img.shields.io/badge/-PsychoCoder-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCK-qpza1oAcb718SgIR_XGg) [![Mail Badge](https://img.shields.io/badge/-@MalwareMix-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/malwaremix/) [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cry3ptr@protonmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@PsychoCoder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PsychoCodeP)](https://twitter.com/PsychoCodeP) [![Mail Badge](https://img.shields.io/badge/-PsychoCoder-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCK-qpza1oAcb718SgIR_XGg) [![Mail Badge](https://img.shields.io/badge/-@MalwareMix-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]() [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cry3ptr@protonmail.com)
 
 <!-- TODO: Add last video link -->
 
