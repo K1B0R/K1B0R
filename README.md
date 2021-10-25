@@ -61,9 +61,8 @@ The eJPT is a cyber security certification that is provided by the company [elea
 
 <!--START_SECTION:waka-->
 ```text
-Python       7 hrs 20 mins   ████████████████████████▓   99.25 % 
-PowerShell   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python       4 hrs 59 mins   █████████████████████████   99.57 % 
+PowerShell   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
 
