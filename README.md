@@ -1,6 +1,6 @@
 ## Hi I'm Kib <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm PsychoCoder, I'm a bugbounty hunter, programmer, gammer, and Content Creator you can see some of my content on my [Youtube](). I Spend most of time programming / coding.
+I'm K1B0R, I'm a bugbounty hunter, programmer, gammer, and Content Creator you can see some of my content on my [Youtube](). I Spend most of time programming / coding.
 
 :mailbox: Reach me out!
 
