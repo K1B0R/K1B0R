@@ -67,11 +67,11 @@ No Activity tracked this Week
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MalwareMix.MalwareMix)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=K1B0R.K1B0R)
 
 #### Profile Stats
 
-[![PsychoCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalwareMix&hide=contribs,prs&theme=radical)](https://github.com/MalwareMix/github-readme-stats)
+[![PsychoCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1B0R&hide=contribs,prs&theme=radical)](https://github.com/MalwareMix/github-readme-stats)
 
 
 </details>
