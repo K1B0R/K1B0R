@@ -37,7 +37,7 @@ I'm K1B0R, I'm a bugbounty hunter, programmer, gammer, and Content Creator you c
 #### The Bizz Stuff
 - :email: cry3ptr@protonmail.com
 - :Discord: ~Kibi~#2219
-- :Discord Server: [My Server](https://discord.gg/GFxyqdu)
+- :Discord Server: [My Server](https://discord.gg/2cq2zQTNJe)
 
 
 <!-- #### Profile Visits 
